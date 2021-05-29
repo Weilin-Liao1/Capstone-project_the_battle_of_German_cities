@@ -44,7 +44,7 @@ Step6. K-Means Clustering
 - Examine different clusters 
 
 
-Please see slides and report(pdf file) for discussions and results. 
+Please see the presentation(ppt) and report(pdf file) for discussions and results. 
 
 
 ![image](https://user-images.githubusercontent.com/82377749/120071900-7fb08d80-c091-11eb-8580-be1a7e051c46.png)
