@@ -45,3 +45,9 @@ Step6. K-Means Clustering
 
 
 Please see slides and report(pdf file) for discussions and results. 
+
+
+![image](https://user-images.githubusercontent.com/82377749/120071900-7fb08d80-c091-11eb-8580-be1a7e051c46.png)
+
+
+- Simple Maps - Germany Cities Database (https://simplemaps.com/data/de-cities)
